@@ -23,8 +23,11 @@ Here are some ideas to get you started:
   2. LinkedIn: https://www.linkedin.com/in/vishnu-p-k/
   3. E-mail: vishnuvpk05@gmail.com
   
-
   
+  
+
+*I'll keep moving forward for 10 years at least*
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=pk-vishnu&theme=violet-punch&stroke=DD6B9A)](https://git.io/streak-stats)
 
- - ⚡ Fun fact: *I'll keep moving forward for 10 years at least*
+ 
