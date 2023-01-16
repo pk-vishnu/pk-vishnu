@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - Pursing B.Tech CSE @ VIT Vellore ('26)
 
 - Social:
-  1. Twitter: https://twitter.com/IamVPK_
+  1. Twitter: https://twitter.com/IamVPK_ .
   2. E-mail: vishnuvpk05@gmail.com
   
   *I'll keep moving forward for 10 years at least*
