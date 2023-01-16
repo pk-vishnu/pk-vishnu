@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 
@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 
 - Social:
   1. Twitter: @IamVPK_
-  2. E-mail: vishnuvpk05@gmail.com
+  2. LinkedIn: https://www.linkedin.com/in/vishnu-p-k/
+  3. E-mail: vishnuvpk05@gmail.com
   
-  *I'll keep moving forward for 10 years at least*
+ - ⚡ Fun fact: *I'll keep moving forward for 10 years at least*
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pk-vishnu&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pk-vishnu&theme=violet-punch&stroke=DD6B9A)](https://git.io/streak-stats)
