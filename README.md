@@ -10,10 +10,6 @@ I'm a Computer Science enthusiast and fresher @ VIT, Vellore and interested in t
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />  
   </a>      
 
-  <a href="vishnuvpk05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>       
-
   <a href="http://twitter.com/IamVPK_">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>       
