@@ -1,4 +1,4 @@
-### Hi there!
+## Hi there!
 I'm a Computer Science enthusiast and fresher @ VIT, Vellore and interested in technology and seeking opportunities to learn.
 
 
