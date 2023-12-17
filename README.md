@@ -27,5 +27,5 @@ I'm a Computer Science enthusiast and fresher @ VIT, Vellore. I'm interested in 
   <img src="https://streak-stats.demolab.com?user=pk-vishnu&theme=violet-punch&stroke=DD6B9A"/>
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=pk-vishnu&show_icons=true&theme=highcontrast"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=pk-vishnu&show_icons=true&theme=highcontrast"/> -->
 </p>
