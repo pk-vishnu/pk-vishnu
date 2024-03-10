@@ -1,5 +1,5 @@
 ## Hi there!
-I'm a Computer Science enthusiast and fresher @ VIT, Vellore. I'm interested in technology and seeking opportunities to learn.
+I'm a Computer Science enthusiast @ VIT, Vellore. I'm interested in technology and seeking opportunities to learn.
 
 
 ## Social
